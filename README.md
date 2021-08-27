@@ -18,3 +18,7 @@ Start using Git by just doing :-).
 - Make sure to look at comments from reviewers.
 - Merge changes into main branch. 
 
+
+## added some new text
+hjxgs ;dfghslfdhg sfdlhgh sldfj gh
+
